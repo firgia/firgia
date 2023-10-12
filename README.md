@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working as a Freelancer on [Upwork](https://www.upwork.com/freelancers/~01d0a4a01b73e5a2a4)
+- 🔭 Hire me on [Upwork](https://www.upwork.com/freelancers/~01d0a4a01b73e5a2a4)
 
 - 🌱 I’m currently learning **Kotlin & Swift**
 
